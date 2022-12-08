@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Alunos:
+// Guilherme Leite Félix
+// Amadeu Mateus de Vasconcelos Neto
+
 // Estrutura de um nó da lista
 typedef struct List_{
     struct List_ *prev;

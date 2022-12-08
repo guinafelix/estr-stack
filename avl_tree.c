@@ -2,7 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Aluno: Guilherme Leite Félix
+//Alunos
+// Guilherme Leite Félix
+// Amadeu Mateus de Vasconcelos Neto
 
 typedef struct Node_ {
     //struct Node_ *father;
